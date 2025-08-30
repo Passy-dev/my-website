@@ -1,0 +1,42 @@
+
+
+.first-column {
+   width: 50px;
+   height: 50px;
+   overflow: hidden;
+   border-radius: 50%;
+   
+}
+
+img{
+   width: 40px;
+   height: 40px;
+   object-fit: cover;
+   color: white;
+  
+}
+.border {
+   border: 1px solid #dee2e6;
+   border-radius: 10px;
+}
+.circle {body {
+  font-family: 'Poppins', sans-serif;
+}
+
+  width: 50px;      
+  height: 50px;     
+  border-radius: 50%;
+  margin-bottom: 10px; 
+}
+a{
+    display: block;
+}
+a .social-media-icon{
+     width: 20px;
+   height: 20px;
+   margin-right: 10px;
+}
+
+.bg{
+    background-image: url(../images/260a0dbd25955bf9748e5dd9bce5c5bf.jpg);
+}
